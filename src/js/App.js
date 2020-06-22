@@ -6,6 +6,7 @@ import Header from "./Header";
 import AboutMe from "./AboutMe";
 import Technologies from "./Technologies";
 import MyProject from "./MyProject";
+import ContactSection from "./ContactSection";
 
 const App = () => (
   <>
@@ -13,6 +14,7 @@ const App = () => (
     <AboutMe />
     <Technologies />
     <MyProject />
+    <ContactSection />
   </>
 );
 
