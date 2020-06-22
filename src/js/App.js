@@ -5,12 +5,14 @@ import "../sass/all.scss";
 import Header from "./Header";
 import AboutMe from "./AboutMe";
 import Technologies from "./Technologies";
+import MyProject from "./MyProject";
 
 const App = () => (
   <>
     <Header />
     <AboutMe />
     <Technologies />
+    <MyProject />
   </>
 );
 

@@ -1,17 +1,28 @@
 .technologies {
   display: flex;
+  width: 90%;
+  margin: 0 auto;
   h1 {
     padding: 2rem 0rem 2rem 1rem;
-    font-size: 1.3rem;
+    font-size: 1.5rem;
   }
   img {
     width: 64px;
-    margin: 0 1rem 1rem 1rem;
+    margin: 2rem 1rem 1rem 1rem;
   }
   .leftSide {
-    width: 50%;
+    width: 70%;
+    text-align: center;
   }
   .rightSide {
-    width: 50%;
+    width: 30%;
+  }
+}
+.technologies_list {
+  list-style: outside;
+  padding: 3rem 0rem 2rem 7rem;
+  li {
+    font-size: 1rem;
+    line-height: 1.3rem;
   }
 }

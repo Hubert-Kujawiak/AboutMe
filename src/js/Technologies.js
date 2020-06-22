@@ -1,4 +1,5 @@
 import React from "react";
+import TechnologiesList from "./TechnologiesList";
 import HTML from "../images/html-5.png";
 import CSS3 from "../images/css3.png";
 import JS from "../images/javascript.png";
@@ -31,9 +32,7 @@ const Technologies = () => {
         <img src={WEBSTORM} />
       </div>
       <div className="rightSide">
-        <p>HTML</p>
-        <p>CSS</p>
-        <p>SCSS</p>
+        <TechnologiesList />
       </div>
     </div>
   );
