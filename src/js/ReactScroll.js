@@ -5,13 +5,13 @@ export default function ReactScroll() {
   return (
     <>
       <Link to="technologies" smooth={true} duration={1250}>
-        Technologie
+        * Technologie *
       </Link>
       <Link to="myProject" smooth={true} duration={1250}>
-        Projekty
+        * Projekty *
       </Link>
-      <Link to="contactForm" smooth={true} duration={1250}>
-        Kontakt
+      <Link to="contactSection" smooth={true} duration={1250}>
+        * Kontakt *
       </Link>
     </>
   );

@@ -1,0 +1,37 @@
+.contactSection {
+  width: 90%;
+  margin: 0 auto;
+  padding-bottom: 5rem;
+  h1 {
+    padding: 2rem 0rem 2rem 1rem;
+    font-size: 1.5rem;
+    border-top: 1px solid black;
+  }
+  .allSideContact {
+    display: flex;
+    justify-content: space-evenly;
+  }
+  img {
+    width: 300px;
+    border-radius: 50px;
+  }
+  .rightSideContact {
+    h2 {
+      font-size: 1.3rem;
+      padding: 1rem 0 1rem 0;
+    }
+    p {
+      font-size: 1rem;
+      line-height: 1.8rem;
+    }
+    a {
+      text-decoration: none;
+      color: black;
+      &:hover {
+        color: red;
+        text-decoration: underline;
+        transition: 0.5s;
+      }
+    }
+  }
+}

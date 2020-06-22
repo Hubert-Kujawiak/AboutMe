@@ -11,5 +11,9 @@
   a {
     padding: 0 2rem;
     cursor: pointer;
+    &:hover {
+      color: red;
+      transition: 0.8s;
+    }
   }
 }
