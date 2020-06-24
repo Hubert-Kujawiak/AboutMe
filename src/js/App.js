@@ -7,6 +7,7 @@ import AboutMe from "./AboutMe";
 import Technologies from "./Technologies";
 import MyProject from "./MyProject";
 import ContactSection from "./ContactSection";
+import MyCertificate from "./MyCertificate";
 
 const App = () => (
   <>
@@ -14,6 +15,7 @@ const App = () => (
     <AboutMe />
     <Technologies />
     <MyProject />
+    <MyCertificate />
     <ContactSection />
   </>
 );

@@ -16,7 +16,6 @@ const TechnologiesList = () => {
       <li>Gulp</li>
       <li>Node.js</li>
       <li>Linux</li>
-      <li>Linux</li>
       <li>Scrum</li>
       <li>WebStorm</li>
       <li>Visual Studio Code</li>

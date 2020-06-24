@@ -29,3 +29,21 @@
     }
   }
 }
+
+@media (max-width: 600px) {
+  .myProject {
+    .allSide {
+      display: block;
+      .leftSideProject,
+      .rightSideProject {
+        width: auto;
+        img {
+          width: 300px;
+        }
+        article {
+          padding: 1rem 4rem 4rem 4rem;
+        }
+      }
+    }
+  }
+}
