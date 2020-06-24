@@ -1,0 +1,24 @@
+@keyframes gogo {
+  0% {
+    right: 60rem;
+  }
+  100% {
+    right: 0rem;
+  }
+}
+@keyframes pulse {
+  0% {
+    transform: rotate(0deg);
+  }
+  100% {
+    transform: rotate(360deg);
+  }
+}
+@keyframes left {
+  0% {
+    left: 60rem;
+  }
+  100% {
+    left: 0;
+  }
+}

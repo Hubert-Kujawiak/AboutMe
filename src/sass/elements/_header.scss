@@ -1,9 +1,35 @@
+@keyframes gogo {
+  0% {
+    right: 60rem;
+  }
+  100% {
+    right: 0rem;
+  }
+}
+@keyframes left {
+  0% {
+    left: 60rem;
+  }
+  100% {
+    left: 0;
+  }
+}
 .header {
+  > h1 {
+    position: relative;
+    animation-name: left;
+    animation-duration: 4s;
+  }
   width: 100%;
   background-color: black;
   color: white;
   text-align: center;
   padding-bottom: 1rem;
+  .reactScroll {
+    position: relative;
+    animation-name: gogo;
+    animation-duration: 4s;
+  }
   h1 {
     padding: 2rem 0 2rem 0;
     font-size: 2.5rem;

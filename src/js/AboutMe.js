@@ -13,7 +13,7 @@ export default function AboutMe() {
         interesowało mnie wszystko, co związane z komputerami i programowaniem.
         W dalszym ciągu staram się zdobywać nową wiedzę poprzez różnego rodzaju
         kursy internetowe oraz dokumentacje. Nigdy się nie poddaję, zawsze robię
-        wszystko, aby zadanie, jakie mi powierzono ,wykonywać w najbardziej
+        wszystko, aby zadanie, jakie mi powierzono, wykonywać w najbardziej
         rzetelny sposób.{" "}
       </article>
     </div>

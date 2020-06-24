@@ -14,8 +14,6 @@ const MyCertificate = () => {
   newButton.classList.add("close");
   newButton.innerText = "Zamknij";
 
-  const chuj = "../images/udemyTwo.jpg";
-
   const handleCLickImage = (e) => {
     console.log("click");
     body.appendChild(newDiv);

@@ -1,3 +1,11 @@
+@keyframes aboutMeAnim {
+  0% {
+    width: 0%;
+  }
+  100% {
+    width: 100%;
+  }
+}
 .aboutMeArticle {
   text-align: center;
   padding: 2rem 1rem 2rem 1rem;
