@@ -1,0 +1,13 @@
+@keyframes body {
+  0% {
+    right: 100%;
+  }
+  100% {
+    right: 0%;
+  }
+}
+body {
+  position: relative;
+  animation-name: body;
+  animation-duration: 2s;
+}
