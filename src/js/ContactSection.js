@@ -15,7 +15,7 @@ const ContactSection = () => {
           <p>Nazwisko: Kujawiak</p>
           <p>E-mail: h.kujawiak@hotmail.com</p>
           <p>Adres: Kraków</p>
-          <p>Number: +48 536 100 052</p>
+          <p>Number: +48 514 307 346</p>
           <p></p>
           <h2>Linki: </h2>
           <p>
