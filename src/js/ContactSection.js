@@ -1,5 +1,5 @@
 import React from "react";
-import myPhoto from "../images/myPhoto.jpg";
+import myPhoto from "../images/mojeZdjecie.jpg";
 
 const ContactSection = () => {
   return (
