@@ -9,7 +9,7 @@ const myProject = () => {
       <div className="allSide">
         <div className="leftSideProject">
           <h2>DodajPrzegląd!</h2>
-          <a href="http://dodajprzeglad.pl" target="blank">
+          <a href="https://app.netlify.com/projects/elated-colden-e79aea" target="blank">
             <img src={CLA}></img>
           </a>
           <article>
@@ -24,7 +24,7 @@ const myProject = () => {
         </div>
         <div className="rightSideProject">
           <h2>Oddaj Rzeczy!</h2>
-          <a href="https://nifty-jang-96be08.netlify.app/" target="blank">
+          <a href="https://nifty-jang-96be08.netlify.app" target="blank">
             <img src={Portfolio} />
           </a>
           <article>
